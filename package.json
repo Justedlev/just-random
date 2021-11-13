@@ -1,0 +1,27 @@
+{
+  "name": "just-random",
+  "description": "Simple randomizer integer numbers",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justedlev/just-random.git"
+  },
+  "author": "justedlev",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "random",
+    "jrandom",
+    "randomizer"
+  ],
+  "bugs": {
+    "url": "https://github.com/Justedlev/just-random/issues"
+  },
+  "homepage": "https://github.com/Justedlev/just-random#readme"
+}
