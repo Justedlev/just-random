@@ -1,6 +1,6 @@
-﻿# Just random method
+# Just random method
 
-Sometimes during development there is a need for a random method, this method is in JES, but we need a method that will return a range of values and this method can be implemented, but it's even easier to borrow :)
+Sometimes during development, there is a need for a random value generator method, JavaScript has a Math.random() method, but we need a method that will return a range of values, and this method can be implemented, but it's even easier to borrow :)
 
 ### Functions:
 
