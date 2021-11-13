@@ -7,6 +7,6 @@ Sometimes during development, there is a need for a random value generator metho
 > _**jrand(16, 24)**_ - will return integer number in range from **16** to **24**.
 
 ```js
-import { juid } from "just-random";
+import { jrand } from "just-random";
 const random = jrand(10, 50); // => 17
 ```
